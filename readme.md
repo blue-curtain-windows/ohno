@@ -5,3 +5,5 @@ append ?name=\<name you don't like\>
 to the url when you start  
 
 eg.    `...step 1.html?name=ew ew name`
+
+https://blue-curtain-windows.github.io/ohno/name=?example
